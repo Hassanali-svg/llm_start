@@ -1,7 +1,7 @@
-# llm_start
-Notebook About Vectorspace and other advanced llm 
+#                   `summary of My llm Learning Journey` 
 
-# 1.Embeddings Summary
+
+## 1.Embeddings Summary
 ---
 #### Image Embeddings
 - **Definition:** Image embeddings refer to the representation of images in a lower-dimensional space.
