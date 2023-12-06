@@ -18,4 +18,8 @@
 - Dot Product
 
 - Cosine Similarity
+
+- K-Nearest Neighbors (KNN) 
+
+
 ---
