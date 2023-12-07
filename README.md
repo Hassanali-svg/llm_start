@@ -29,6 +29,6 @@
 
 #### Introduction
 - How to create Embedding Client
-- How to create schema
+- How to create a schema
 - How to insert embedding into the created schema
 - How to get vector embedding similar or nearest in distance to the query vector
