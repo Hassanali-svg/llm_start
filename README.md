@@ -23,3 +23,4 @@
 - **Search Types:** Dense (Semantic) Search, Sparse Search (B25).
 - **Resource:** [ Dense Search, Sparse Search (B25)](https://www.youtube.com/watch?v=ziiF1eFM3_4).
 
+### 2. **Langchain  (Chat with PDF)**
